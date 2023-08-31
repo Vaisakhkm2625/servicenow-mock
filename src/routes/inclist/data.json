@@ -1,0 +1,62 @@
+[
+    {
+        "number": "INC001",
+        "description": "Network Outage",
+        "status": "Open"
+    },
+    {
+        "number": "INC002",
+        "description": "Server Down",
+        "status": "In Progress"
+    },
+    {
+        "number": "INC003",
+        "description": "Software Installation",
+        "status": "Resolved"
+    },
+    {
+        "number": "INC004",
+        "description": "Network Outage",
+        "status": "Open"
+    },
+    {
+        "number": "INC005",
+        "description": "Server Down",
+        "status": "In Progress"
+    },
+    {
+        "number": "INC006",
+        "description": "Software Installation",
+        "status": "Resolved"
+    },
+    {
+        "number": "INC007",
+        "description": "Network Outage",
+        "status": "Open"
+    },
+    {
+        "number": "INC008",
+        "description": "Server Down",
+        "status": "In Progress"
+    },
+    {
+        "number": "INC009",
+        "description": "Software Installation",
+        "status": "Resolved"
+    },
+    {
+        "number": "INC0010",
+        "description": "Network Outage",
+        "status": "Open"
+    },
+    {
+        "number": "INC0011",
+        "description": "Server Down",
+        "status": "In Progress"
+    },
+    {
+        "number": "INC0012",
+        "description": "Software Installation",
+        "status": "Resolved"
+    }
+]

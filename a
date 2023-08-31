@@ -1,0 +1,26 @@
+Number
+Caller
+Requested For 
+Service
+Configuration item
+Category
+Subcategory
+Compliance Impact
+Impacted Division
+Impacted Location
+
+Contact type
+State
+ImpactUrgency
+Priority
+Assignment group
+Assigned to
+Language
+Actual Start Time
+
+ramdom data for 
+Incident Number,Caller,Requested For,Service,Configuration item,Category,Subcategory, Compliance Impact,Impacted Division,Impacted Location
+
+Contact type,State,Impact Urgency,Priority,Assignment group,Assigned to,Language,Actual Start Time
+
+for a mock service now page as json data
